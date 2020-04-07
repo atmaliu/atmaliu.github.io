@@ -11,7 +11,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
 #EXTINF:0,浙江卫视高清
 #EXTVLCOPT:network-caching=1000
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+http://223.110.243.153/PLTV/3/224/3221227215/index.m3u8
 #EXTINF:0,东方卫视高清
 #EXTVLCOPT:network-caching=1000
 http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
@@ -24,3 +24,20 @@ http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
 #EXTINF:0,深圳卫视高清
 #EXTVLCOPT:network-caching=1000
 http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/gat.xml"
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PCC.png" group-title="凤凰卫视",凤凰卫视中文台
+http://qlive.fengshows.cn/live720p/PCC.flv
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PIN.png" group-title="凤凰卫视",凤凰卫视资讯台
+http://qlive.fengshows.cn/live720p/PIN.flv
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PHK.png" group-title="凤凰卫视",鳳凰衛視香港台
+http://qlive.fengshows.cn/live720p/PHK.flv
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",翡翠台
+http://hk.tv0668.com/dl/hk520.php?id=1
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",J2
+http://hk.tv0668.com/dl/hk520.php?id=12
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",無綫新聞台
+http://hk.tv0668.com/dl/hk520.php?id=9
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",明珠台
+http://hk.tv0668.com/dl/hk520.php?id=13
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/TVB.png" group-title="TVB",無綫財經·資訊台
+http://hk.tv0668.com/dl/hk520.php?id=10
