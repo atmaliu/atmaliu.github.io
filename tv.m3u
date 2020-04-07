@@ -11,7 +11,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
 #EXTINF:0,浙江卫视高清
 #EXTVLCOPT:network-caching=1000
-http://223.110.243.153/PLTV/3/224/3221227215/index.m3u8
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 #EXTINF:0,东方卫视高清
 #EXTVLCOPT:network-caching=1000
 http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
