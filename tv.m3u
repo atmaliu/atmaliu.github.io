@@ -3,6 +3,14 @@
 http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:0,CCTV-1高清
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:0,無綫新聞台
+http://tv.twiptv.xyz:8080/vhls/1001/1001_live.m3u8
+#EXTINF:0,無綫財經 · 資訊台
+http://tv.twiptv.xyz:8080/vhls/2001/2001_live.m3u8
+#EXTINF:0,東森新聞
+http://tv.twiptv.xyz:8080/vhls/51/51_live.m3u8
+#EXTINF:0,有线新闻
+http://tv.twiptv.xyz:8080/vhls/908/908_live.m3u8
 #EXTINF:0,湖南卫视高清
 #EXTVLCOPT:network-caching=1000
 http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
