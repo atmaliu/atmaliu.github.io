@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,CCTV-13标清
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国",CCTV-13 新闻
 http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中国",CCTV-13 新闻
 http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -18,10 +18,6 @@ http://www.liveviptv.xyz/tv/tvb.php?vid=wx
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="新闻台",有線新聞
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="新闻台",有線財經資訊
-http://teslagram.com/live/channel_108.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/I-CABLE_Live_News_Channel.png" group-title="新闻台",有線直播新聞
-http://teslagram.com/live/channel_110.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PCC.png" group-title="凤凰卫视",凤凰卫视中文台
 http://qlive.fengshows.cn/live720p/PCC.flv
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PIN.png" group-title="凤凰卫视",凤凰卫视资讯台
