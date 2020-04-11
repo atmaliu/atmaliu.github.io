@@ -28,30 +28,6 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="台湾新闻台",东森新聞
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="电影",東森電影
-http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="电影",龍祥時代電影
-http://104.250.154.42:8080/ZZ_shidai/ZZ_shidai.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="电影",好莱坞电影
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="电影",HBO 中文
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/FX.us.png" group-title="电影",FX 中文
-http://111.13.111.192/125.227.198.89:8027
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://101.71.255.229:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/832-dragon-tv.png" group-title="卫视",东方卫视
-http://111.40.205.76/PLTV/88888888/224/3221225700/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://101.71.255.229:6610/zjhs/2/10005/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://111.40.205.73/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://111.40.205.76/PLTV/88888888/224/3221225739/index.m3u8
 
 
