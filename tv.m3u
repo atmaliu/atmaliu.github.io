@@ -41,8 +41,20 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="台湾新闻台",东森新聞
 http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="国际新闻频道",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="国际新闻频道",CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC World News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="国际新闻频道",BBC World News
+http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
 
-
-
-
-
+#EXTINF:-1 tvg-logo="http://static.epg.best/de/History.de.png" group-title="美国频道",History
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/se/History2.se.png" group-title="美国频道",H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/us/InvestigationDiscovery.us.png" group-title="美国频道",Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="美国频道",National Geographic
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/571_300.png" group-title="美国频道",Discovery Asia
+http://111.13.111.192/125.227.198.89:8028
