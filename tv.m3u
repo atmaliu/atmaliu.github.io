@@ -3,27 +3,18 @@
 http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
 http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://www.yicai.com/img/logo.66870cb6.png" group-title="央视",第一财经
-https://w1live.livecdn.yicai.com/live/cbn.m3u8
 
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="香港",翡翠台                  
-http://61.238.6.49:8000/bysid/1/1.mpeg
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="香港",翡翠J2台                  
-http://61.238.6.49:8001/bysid/82/82.mpeg
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/hk/TVBPearl.hk.png" group-title="香港",TVB Pearl
-http://61.238.6.49:8001/bysid/2/2.mpeg
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="新闻台",有線新聞
-https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="新闻台",凤凰资讯台
+http://live.centerch.com/fhzx.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="新闻台",鳳凰衛視中文台
+http://live.centerch.com/fhzw.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="新闻台",無綫新聞台
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="香港",港台電視31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="香港",港台電視32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://static.epg.best/hk/ViuTV99.hk.png" group-title="香港",ViuTV
-http://61.238.6.49:8000/bysid/99/99.mpeg
-#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV99.hk.png" group-title="香港",ViuTV Six
-http://61.238.6.49:8000/bysid/96/96.mpeg
+#EXTINF:-1 tvg-id="" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="新闻台",無綫財經資訊台
+http://www.liveviptv.xyz/tv/tvb.php?vid=wxzx
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="新闻台",有線新聞
+https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="新闻台",中天新聞
 http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="新闻台",TVBS新聞
